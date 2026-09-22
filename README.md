@@ -41,10 +41,6 @@ Test the trained model using the test dataset and evaluate its performance using
 
 ## PROGRAM
 
-### Name:
-
-### Register Number:
-
 ```python
 import torch
 import torch.nn as nn
